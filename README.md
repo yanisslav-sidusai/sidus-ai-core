@@ -171,3 +171,8 @@ CaOps enables SIDUS developers to integrate causal AI analytics and social insig
 
 This demo presents **CaOps — The Causality Operations Framework** built for the SIDUS AI ecosystem.  
 Created by **Yanislav Iliev (@yanisslav-sidusai)** for the **SIDUS AI Hackathon 2025**.
+
+### Future Work
+- Real-time data streaming integration.
+- On-chain analytics for SIDUS metaverse economy.
+- Auto-tuning of correlation thresholds for adaptive agents.

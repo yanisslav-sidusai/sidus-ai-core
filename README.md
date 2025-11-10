@@ -140,22 +140,6 @@ we plan to implement the following items:
 Undoubtedly, we will make every effort to keep this list up to date. However, the process of knowledge formation and
 systematization is dynamic, which leads to a high speed and frequency of updates to the list.
 
-## License
-
-    Copyright 2025 SidusAI
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
 ## Value Proposition
 CaOps enables SIDUS developers to integrate causal AI analytics and social insights directly into their agents, reducing complexity and improving explainability across the ecosystem.
 
@@ -176,3 +160,19 @@ Created by **Yanislav Iliev (@yanisslav-sidusai)** for the **SIDUS AI Hackathon 
 - Real-time data streaming integration.
 - On-chain analytics for SIDUS metaverse economy.
 - Auto-tuning of correlation thresholds for adaptive agents.
+
+- ## License
+
+    Copyright 2025 SidusAI
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

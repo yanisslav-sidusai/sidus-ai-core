@@ -157,9 +157,16 @@ systematization is dynamic, which leads to a high speed and frequency of updates
     limitations under the License.
 
 ## Value Proposition
-CaOps enables SIDUS developers to integrate causal AI analytics and social insights directly into their agents, reducing complexity and improving explainability across the ecosystem.    
+CaOps enables SIDUS developers to integrate causal AI analytics and social insights directly into their agents, reducing complexity and improving explainability across the ecosystem.
 
-## 🎥 Demo Video
+## Key Features
+- **Modular architecture** — five independent agents for data, correlation, reporting, and communication.
+- **Causality-driven insights** — built-in support for Granger causality and anomaly detection.
+- **Explainable AI** — generates signed JSON artifacts with visual reports for transparency.
+- **Plug-and-Play integration** — minimal setup, compatible with SIDUS AI Core framework.
+- **SIDUS-themed UX** — green-neon design, smooth visualization, and adaptive agent behavior.
+
+## Demo Video
 [![Watch the video](https://img.youtube.com/vi/N_XDSfQeC1s/hqdefault.jpg)](https://youtu.be/N_XDSfQeC1s)
 
 This demo presents **CaOps — The Causality Operations Framework** built for the SIDUS AI ecosystem.  

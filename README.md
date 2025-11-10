@@ -156,3 +156,8 @@ systematization is dynamic, which leads to a high speed and frequency of updates
     See the License for the specific language governing permissions and
     limitations under the License.
 
+## 🎥 Demo Video
+[![Watch the video](https://img.youtube.com/vi/N_XDSfQeC1s/hqdefault.jpg)](https://youtu.be/N_XDSfQeC1s)
+
+This demo presents **CaOps — The Causality Operations Framework** built for the SIDUS AI ecosystem.  
+Created by **Yanislav Iliev (@yiliev)** for the **SIDUS AI Hackathon 2025**.

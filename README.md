@@ -156,6 +156,9 @@ systematization is dynamic, which leads to a high speed and frequency of updates
     See the License for the specific language governing permissions and
     limitations under the License.
 
+## Value Proposition
+CaOps enables SIDUS developers to integrate causal AI analytics and social insights directly into their agents, reducing complexity and improving explainability across the ecosystem.    
+
 ## 🎥 Demo Video
 [![Watch the video](https://img.youtube.com/vi/N_XDSfQeC1s/hqdefault.jpg)](https://youtu.be/N_XDSfQeC1s)
 
